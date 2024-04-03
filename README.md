@@ -2,7 +2,7 @@
 
 6년간 Flutter와 Xamarin으로 현업에서 다양한 앱 서비스를 개발하고 출시한 경험이 있어요. 이 중에서도 Flutter로 개발한 앱들은 기획 과정부터 앱의 정식 출시, 그리고 서비스 종료까지의 전 과정을 경험했었으며, Beflex, ThreeTwoGo, 그리고 JumpRopeGo와 같은 앱들은 적게는 수천. 많게는 수만의 사용자에게 서비스 했었어요.
 
-현재는 Swift를 공부하고 있으며, 직무 전환을 통해 Native iOS 앱 개발에 대한 새로운 도전에 나서고 있습니다. 이전에 Flutter 앱을 개발할 때 Apple HealthKit의 데이터를 활용하기 위해 사내 자체 라이브러리를 개발한 경험이 있고, Swift로 작성된 에어팟과 통신하는 Core Library를 Flutter와 연동하여 사용자들에게 더 많은 기능을 제공하는 작업을 수행한 경험이 있습니다.
+현재는 Swift를 공부하고 있으며, 직무 전환을 통해 Native iOS 앱 개발에 대한 새로운 도전에 나서고 있어요. 이전에 Flutter 앱을 개발할 때 Apple HealthKit의 데이터를 활용하기 위해 사내 자체 라이브러리를 개발한 경험이 있고, Swift로 작성된 에어팟과 통신하는 Core Library를 Flutter와 연동하여 사용자들에게 더 많은 기능을 제공하는 작업을 수행한 경험이 있습니다.
 
 ### 💼 Stacks
 ![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)

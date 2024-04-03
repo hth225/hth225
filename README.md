@@ -1,4 +1,4 @@
-### Hi there 👋
+![hth225's GitHub stats](https://github-readme-stats.vercel.app/api?username=hth225&show_icons=true&theme=gotham)
 
 <!--
 **hth225/hth225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

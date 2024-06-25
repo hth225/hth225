@@ -3,9 +3,9 @@
 6년간 Flutter와 Xamarin으로 현업에서 다양한 앱 서비스를 개발하고 출시한 경험이 있어요. 이 중에서도 Flutter로 개발한 앱들은 기획 과정부터 앱의 정식 출시, 그리고 서비스 종료까지의 전 과정을 경험했었으며, Beflex, ThreeTwoGo, 그리고 JumpRopeGo와 같은 앱들은 적게는 수천. 많게는 수만의 사용자에게 서비스 했었어요.
 
 ### 💼 Stacks
-![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 ![cocoapods](https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
